@@ -1,1 +1,1 @@
-git@github.com:gichanaa/gichanaa.git
+https://github.com/gichanaa/gichanaa
